@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01eb9880-0fbe-43dd-a8f1-21944e8eeec1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArithGeo/ArithGeo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayAddition1/ArrayAddition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DashInsert/DashInsert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DirectoryContents/DirectoryContents.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExOh/ox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FindMode/FindMode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Letter Count 1/LetterCount.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Palindrome/Palindrome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SecondMax/SecondMax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BalancedBT/BalancedBT.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinaryConvertor/BinaryConvertor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CheckBST/IsBST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GreastCommonDivisor/findGreatestDivisor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IsAnagram/isAnagram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IsPrime/IsPrime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NthFibonacci/NthFibonacci.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NthPrime/nthPrime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParenthesisMatching/ParenthesisMatching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/QueueWithStacks/Queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RotatedSearch/RotatedSearch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,101 +28,51 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ox.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExOh/ox.py">
+      <file leaf-file-name="NthFibonacci.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NthFibonacci/NthFibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondMax.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SecondMax/SecondMax.py">
+      <file leaf-file-name="ParenthesisMatching.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParenthesisMatching/ParenthesisMatching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="327">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindMode.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindMode/FindMode.py">
+      <file leaf-file-name="BalancedBT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BalancedBT/BalancedBT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="180">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DashInsert.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DashInsert/DashInsert.py">
+      <file leaf-file-name="IsBST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CheckBST/IsBST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palindrome/Palindrome.py">
+      <file leaf-file-name="RotatedSearch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RotatedSearch/RotatedSearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArithGeo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArithGeo/ArithGeo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LetterCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Letter Count 1/LetterCount.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectoryContents.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DirectoryContents/DirectoryContents.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factorial.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Factorial/factorial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayAddition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArrayAddition1/ArrayAddition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="630">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -163,6 +114,17 @@
         <option value="$PROJECT_DIR$/SecondMax/SecondMax.py" />
         <option value="$PROJECT_DIR$/FindMode/FindMode.py" />
         <option value="$PROJECT_DIR$/DashInsert/DashInsert.py" />
+        <option value="$PROJECT_DIR$/IsPrime/IsPrime.py" />
+        <option value="$PROJECT_DIR$/NthPrime/nthPrime.py" />
+        <option value="$PROJECT_DIR$/GreastCommonDivisor/findGreatestDivisor.py" />
+        <option value="$PROJECT_DIR$/IsAnagram/isAnagram.py" />
+        <option value="$PROJECT_DIR$/BinaryConvertor/BinaryConvertor.py" />
+        <option value="$PROJECT_DIR$/QueueWithStacks/Queue.py" />
+        <option value="$PROJECT_DIR$/NthFibonacci/NthFibonacci.py" />
+        <option value="$PROJECT_DIR$/ParenthesisMatching/ParenthesisMatching.py" />
+        <option value="$PROJECT_DIR$/BalancedBT/BalancedBT.py" />
+        <option value="$PROJECT_DIR$/CheckBST/IsBST.py" />
+        <option value="$PROJECT_DIR$/RotatedSearch/RotatedSearch.py" />
       </list>
     </option>
   </component>
@@ -209,21 +171,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SecondMax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_Challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python_Challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DashInsert" />
+              <option name="myItemId" value="RotatedSearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,7 +192,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SecondMax">
+  <component name="RunManager" selected="Python.RotatedSearch">
     <configuration default="false" name="reverse_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,6 +257,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Challenges" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SecondMax/SecondMax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RotatedSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RotatedSearch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Challenges" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RotatedSearch/RotatedSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -447,18 +412,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.reverse_string" />
       <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
       <item index="2" class="java.lang.String" itemvalue="Python.ox" />
       <item index="3" class="java.lang.String" itemvalue="Python.SecondMax" />
+      <item index="4" class="java.lang.String" itemvalue="Python.RotatedSearch" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.SecondMax" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ox" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reverse_string" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.RotatedSearch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SecondMax" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ox" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reverse_string" />
       </list>
     </recent_temporary>
   </component>
@@ -477,14 +444,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="45" width="1280" height="710" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -563,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LongestWord/longestWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlphabetSoup/alphabetsoup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -608,14 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palindrome/Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArithGeo/ArithGeo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -636,14 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DirectoryContents/DirectoryContents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -682,8 +626,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DashInsert/DashInsert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirectoryContents/DirectoryContents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IsPrime/IsPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NthPrime/nthPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palindrome/Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreastCommonDivisor/findGreatestDivisor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IsAnagram/isAnagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryConvertor/BinaryConvertor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QueueWithStacks/Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NthFibonacci/NthFibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestWord/longestWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParenthesisMatching/ParenthesisMatching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BalancedBT/BalancedBT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckBST/IsBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RotatedSearch/RotatedSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
